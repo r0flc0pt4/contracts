@@ -1,6 +1,6 @@
 # Matic contracts
 
-[![Build Status](https://travis-ci.org/maticnetwork/contracts.svg?branch=master)](https://travis-ci.org/maticnetwork/contracts)
+[![Build Status](https://travis-ci.org/maticnetwork/contracts.svg?branch=master)](https://travis-ci.org/maticnetwork/contracts) [![GuardRails badge](https://badges.production.guardrails.io/r0flc0pt4/contracts.svg)](https://www.guardrails.io)
 
 Matic contracts are ethereum smart contracts to power [Matic Network](https://matic.network).
 
